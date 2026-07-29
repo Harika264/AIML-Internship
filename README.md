@@ -19,3 +19,22 @@ Topics Covered:
 - Functions
 
 Created a Python program demonstrating the fundamental concepts of Python programming.
+# Day 3 - NumPy
+
+## Objective
+Learn NumPy arrays, indexing, slicing, and basic mathematical operations.
+
+## Tools
+- Python
+- NumPy
+- Jupyter Notebook
+
+## Topics Covered
+- Array Creation
+- Indexing & Slicing
+- Arithmetic Operations
+- Statistical Functions
+- Reshaping Arrays
+
+## Outcome
+Successfully completed the NumPy fundamentals task.
